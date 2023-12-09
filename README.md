@@ -25,5 +25,17 @@ Ghibli movies are just known for wonderful art. There's a popular challenge for 
 
 ![marnie](https://github.com/sti-nella/app-dev/assets/153332272/a36e9790-a15a-4527-9196-e5241febfa11)
 
+## Main Characters in the Movie
+```mermaid
+erDiagram 
+SHO ||--|{ ARRIETY: "Friend Of"
+HOMILY_CLOCK ||--|{ ARRIETY: "Mother Of"
+POD_CLOCK ||--|{ ARRIETY: "Father Of"
+HARU ||--|{ SHO: "Nanny Of"
+NIYA ||--|{ SHO: "Pet Of"
+SADAKO_MAKI ||--|{ SHO: "Aunt of"
+SPILLER ||--|{ POD_CLOCK: "Friend of"
+```
+
 That is all for my favorite movie. Thank you for reading this far and have a great day! 
 
